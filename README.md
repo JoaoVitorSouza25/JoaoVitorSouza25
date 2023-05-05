@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá, eu sou João Vitor Souza😄
+Estou cursando o 7º semestre de Engenharia de Computação na UNAERP, uma faculdade particular com bolsa integral.
 
-<!--
-**JoaoVitorSouza25/JoaoVitorSouza25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente trabalho com **suporte ao cliente, customização e gerenciamento de plataformas Moodle** de ensino à distância. 
 
-Here are some ideas to get you started:
+Gosto de Desenvolvimento Mobile, e estou buscando conhecer mais sobre a linguagem Dart, através do framework Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<div align="center">
+  <details open>
+    <summary style="margin-bottom:10px;">Estatísticas do GitHub</summary>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorSouza25&theme=monokai-metallian&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoVitorSouza25&theme=monokai-metallian&hide_border=true"/></a>
+    <div style="display:flex; justify-content: space-between">
+      <a href="https://github.com/JoaoVitorSouza25">
+      <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorSouza25&show_icons=true&theme=radical&count_private=true&show_icons=true&include_all_commits=true">
+      <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSouza25&layout=compact&langs_count=10&theme=radical&include_all_commits=true&count_private=true">
+    </div>
+  </details>
+</div>
+
+<hr>
+
+## Tecnologias que já utilizei e aprimoro meus conhecimentos
+<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://www.python.org"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
