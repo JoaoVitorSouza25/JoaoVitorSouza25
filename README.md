@@ -21,5 +21,5 @@ Gosto de Desenvolvimento Mobile, e estou buscando conhecer mais sobre a linguage
 <hr>
 
 ## Tecnologias que já utilizei e aprimoro meus conhecimentos
-<a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://git-scm.com/"><img height= "50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg"></a>
 <a href="https://www.python.org"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
